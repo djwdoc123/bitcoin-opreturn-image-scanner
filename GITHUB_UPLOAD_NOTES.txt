@@ -1,0 +1,11 @@
+Suggested repository name:
+bitcoin-opreturn-image-scanner
+
+Suggested description:
+Scans Bitcoin OP_RETURN outputs for complete embedded image files and preserves the original bytes plus an easy-to-view PNG preview.
+
+Suggested GitHub topics:
+bitcoin, op-return, blockchain, python, bitcoin-data, image-forensics, esplora
+
+Recommended: do NOT upload your opreturn_images folder or SQLite database.
+They are excluded automatically by .gitignore when using Git.

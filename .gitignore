@@ -1,0 +1,17 @@
+# Scanner output
+opreturn_images/
+opreturn_images.sqlite3
+opreturn_images.sqlite3-shm
+opreturn_images.sqlite3-wal
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
