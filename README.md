@@ -6,6 +6,14 @@ It downloads each raw Bitcoin block from a public Esplora-compatible API, parses
 
 No Bitcoin Core node is required.
 
+## Download
+
+**[Download Bitcoin OP_RETURN Image Scanner v1.0](https://github.com/djwdoc123/bitcoin-opreturn-image-scanner/releases/download/v1.0.0/bitcoin-opreturn-image-scanner-v1.0.zip)**
+
+Windows users: download the ZIP, extract it, and run `INSTALL_AND_RUN.bat`.
+
+[View all releases](https://github.com/djwdoc123/bitcoin-opreturn-image-scanner/releases)
+
 ## What it does
 
 For every block, the scanner:
